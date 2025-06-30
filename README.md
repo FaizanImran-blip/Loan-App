@@ -4,7 +4,6 @@ This repository contains a modern loan application UI built with Flutter. The ap
 # Home UI 
 ![App Screenshot](https://raw.githubusercontent.com/FaizanImran-blip/chat-App-clone/bb6dc4954b95f2f3e67cb044b113d70e46bf4ef2/assets/IMG_2812.jpg)
 
-
 ## Features
 
 - Light and dark theme support using `ThemeMode`
@@ -12,7 +11,7 @@ This repository contains a modern loan application UI built with Flutter. The ap
 - Modular widget structure for easy scalability
 - Responsive layout for different screen sizes
 - Well-structured and readable Dart code
-
+![App Screenshot](https://raw.githubusercontent.com/FaizanImran-blip/chat-App-clone/bb6dc4954b95f2f3e67cb044b113d70e46bf4ef2/assets/IMG_2811.jpg)
 ## Getting Started
 
 ### Prerequisites
