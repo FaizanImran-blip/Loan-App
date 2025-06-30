@@ -1,16 +1,27 @@
-# flutter_loan_app
+# Flutter Loan Application UI with Theme Switching
 
-A new Flutter project.
+This repository contains a modern loan application UI built with Flutter. The app includes a GitHub-style light/dark theme switcher using `ThemeMode`, and demonstrates clean UI design, modular architecture, and responsive layouts. It serves as a strong foundation for fintech or form-based applications.
+
+## Features
+
+- Light and dark theme support using `ThemeMode`
+- Clean and accessible user interface
+- Modular widget structure for easy scalability
+- Responsive layout for different screen sizes
+- Well-structured and readable Dart code
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter SDK (>= 3.0.0)
+- Dart SDK
+- An IDE such as VS Code or Android Studio
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Installation
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone the repository:
+
+```bash
+git clone https://github.com/your-username/flutter-loan-app.git
+cd flutter-loan-app
