@@ -1,4 +1,4 @@
-# Flutter Loan Application UI with Theme Switching
+# Flutter Loan Application UI with Github Theme Switching
 
 This repository contains a modern loan application UI built with Flutter. The app includes a GitHub-style light/dark theme switcher using `ThemeMode`, and demonstrates clean UI design, modular architecture, and responsive layouts. It serves as a strong foundation for fintech or form-based applications.
 # Home UI 
